@@ -6,6 +6,6 @@ Contact us if you have any questions, and feel free to open issues if you find a
 
 ## Sofware List
 * open-ephys 
-* [XDAQ Compatible Intan RHX] (https://github.com/kontex-neuro/Intan-RHX/releases/tag/v3.1.0-xdaq1)
+* [XDAQ Compatible Intan RHX](https://github.com/kontex-neuro/Intan-RHX/releases/tag/v3.1.0-xdaq1)
 * XDAQ Rec v1.0.3 (supports 32bit IO Expander)
 * XDAQ Stim v1.0.3 (supports 32bit IO Expander)
