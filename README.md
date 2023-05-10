@@ -13,3 +13,5 @@ Older versions (from this Repository)
 * XDAQ_Rec v1.0.3 (supports 32bit IO Expander)
 * XDAQ_Stim v1.0.3 (supports 32bit IO Expander)
 
+Windows users may need to download the FrontPanelUSB driver at:
+https://pins.opalkelly.com/downloads
